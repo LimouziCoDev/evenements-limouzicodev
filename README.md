@@ -9,7 +9,7 @@
 
 ### A venir
 
-<img src="affiches/18_09_02_ReactRedux.jpg" alt="Livre Refactoring" width="70"> 24/01/2019 : [Dynamiser votre frontend avec React et Redux](https://www.meetup.com/limouzi-dev/events/258124522/) par [Tom Darneix](https://twitter.com/ThisIsBarda) : Inscrivez-vous [ici](https://www.meetup.com/limouzi-dev/events/258124522/) !
+<img src="affiches/19_02_09_ReactRedux.jpg" alt="affiche meetup" width="70"> 24/01/2019 : [Dynamiser votre frontend avec React et Redux](https://www.meetup.com/limouzi-dev/events/258124522/) par [Tom Darneix](https://twitter.com/ThisIsBarda) : Inscrivez-vous [ici](https://www.meetup.com/limouzi-dev/events/258124522/) !
 
 
 
@@ -17,7 +17,7 @@
 24/01/2019 : [Gamification: booster l'engagement dans la dette technique et les tests](https://www.meetup.com/limouzi-dev/events/257988786/) par [Xavier Blanc](https://www.linkedin.com/in/xavier-blanc-3b9785a/) ([transparents](slides/19_01_24_GamificationDetteTechnique.pdf) et vidéo)
 
 
-23/11/2018 : [Josiane et le jardinier](https://www.meetup.com/limouzi-dev/events/256182513/) par [Claude Andrieux](https://twitter.com/Claude_64510) et [Denis Benoist](https://twitter.com/DenisBenoist) ([transparents])(slides/18_11_23_JosianeJardinier)
+23/11/2018 : [Josiane et le jardinier](https://www.meetup.com/limouzi-dev/events/256182513/) par [Claude Andrieux](https://twitter.com/Claude_64510) et [Denis Benoist](https://twitter.com/DenisBenoist) ([transparents](slides/18_11_23_JosianeJardinier))
 
 18/10/2018 : [Métriques: collecte, visualisation et alertes](https://www.meetup.com/limouzi-dev/events/254882915/) par [Fabien Siberstein](https://twitter.com/silberfab)
 
