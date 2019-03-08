@@ -3,18 +3,22 @@
 ***Partageons nos expériences et faisons bouger ensemble la COmmunauté de DEVeloppement logiciel dans le Limousin !***
 
 
-## Présentations
+## Conférences
 
 
 
 ### A venir
-
-<img src="affiches/19_02_09_ReactRedux.jpg" alt="affiche meetup" width="70"> 24/01/2019 : [Dynamiser votre frontend avec React et Redux](https://www.meetup.com/limouzi-dev/events/258124522/) par [Tom Darneix](https://twitter.com/ThisIsBarda) : Inscrivez-vous [ici](https://www.meetup.com/limouzi-dev/events/258124522/) !
+20/03/2019 : Printemps des devs #1 : Inscrivez-vous [ici](https://www.meetup.com/limouzi-dev/events/259497649) !  
+Retour d'expérience sur le développement d'une première application mobile à l'aide de Kotlin/Android  
+Sécurité des Systèmes informatiques
 
 
 
 ### Passées
-24/01/2019 : [Gamification: booster l'engagement dans la dette technique et les tests](https://www.meetup.com/limouzi-dev/events/257988786/) par [Xavier Blanc](https://www.linkedin.com/in/xavier-blanc-3b9785a/) ([transparents](slides/19_01_24_GamificationDetteTechnique.pdf) et vidéo)
+09/02/2019 : [Dynamiser votre frontend avec React et Redux](https://www.meetup.com/limouzi-dev/events/258124522/) par [Tom Darneix](https://twitter.com/ThisIsBarda) ([affiche](affiches/19_02_09_ReactRedux.jpg), [transparents](https://slides.com/thebardapnk/introducereactredux/#/) et [code démo](https://github.com/Thebarda/ReactReduxTalk))
+
+
+24/01/2019 : [Gamification: booster l'engagement dans la dette technique et les tests](https://www.meetup.com/limouzi-dev/events/257988786/) par [Xavier Blanc](https://www.linkedin.com/in/xavier-blanc-3b9785a/) ([transparents](slides/19_01_24_GamificationDetteTechnique.pdf) et [vidéo](https://www.youtube.com/watch?v=joohHSFlbjE))
 
 
 23/11/2018 : [Josiane et le jardinier](https://www.meetup.com/limouzi-dev/events/256182513/) par [Claude Andrieux](https://twitter.com/Claude_64510) et [Denis Benoist](https://twitter.com/DenisBenoist) ([transparents](slides/18_11_23_JosianeJardinier))
